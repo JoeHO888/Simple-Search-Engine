@@ -1,4 +1,4 @@
-#Simple webpage crawler 
+#Web crawler 
 
 def compute_ranks(graph):
     d = 0.8 # damping factor
