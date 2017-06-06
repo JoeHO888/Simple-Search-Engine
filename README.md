@@ -1,6 +1,3 @@
-# Simple-Search-Engine
-#Finishing the page ranking algorithm.
-
 def compute_ranks(graph):
     d = 0.8 # damping factor
     numloops = 10
